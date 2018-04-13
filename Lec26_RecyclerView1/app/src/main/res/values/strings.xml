@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lec26_RecyclerView1</string>
+
+    <!-- RecyclerView에서 사용할 문자열 배열 -->
+    <string-array name="items">
+        <item>111</item>
+        <item>222</item>
+        <item>333</item>
+        <item>444</item>
+        <item>555</item>
+        <item>666</item>
+        <item>777</item>
+        <item>888</item>
+        <item>999</item>
+        <item>000</item>
+        <item>123</item>
+    </string-array>
+</resources>
